@@ -73,11 +73,11 @@ This project identifies key factors influencing students' academic performance, 
 ---
 
 ### **External Libraries Used**
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- TensorFlow/Keras
+- Pandas: Used to clean, organize, and analyze the dataset.
+- NumPy: Helps with calculations and handling numbers efficiently.
+- Matplotlib: Creates charts and graphs to visualize the data.
+- Scikit-learn: Provides tools for building and testing machine learning models like linear regression.
+- TensorFlow/Keras: Used to create and train the neural network for better predictions.
 
 ---
 
