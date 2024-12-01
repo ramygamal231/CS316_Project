@@ -69,6 +69,8 @@ This project identifies key factors influencing students' academic performance, 
    - Expand the dataset to include diverse regions and populations.
    - Incorporate qualitative factors, such as emotional well-being, into the analysis.
    - Explore advanced machine learning models, such as Random Forest, for further insights.
+  
+For further details on our findings and their implications, please refer to the [Discussion](https://github.com/AhmedYasserIbrahim/CS316_Project/blob/main/Discussion.md) section of this repository.
 
 ---
 
